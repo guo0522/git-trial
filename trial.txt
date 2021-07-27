@@ -10,3 +10,4 @@ nother
 final merge third command
 new one
 merge commit
+i want to merge commit 
