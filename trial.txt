@@ -1,1 +1,6 @@
 first command for git
+third command for pull
+second command for pull
+add third command
+merge commit
+new one
